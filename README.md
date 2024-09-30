@@ -2,7 +2,7 @@
 
 - PBI Calendar table vol.2
 - DAX
-- You can edit start/end date by using VAR for MIN/MAX date
+- You can edit start/end date by using VAR for MIN/MAX date from you data
 
 ```
 Calendar = 
